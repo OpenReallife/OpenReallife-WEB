@@ -1,5 +1,5 @@
 <a href="https://inspiredprogrammer.com"><p align="center">
-<img height=100 src="https://raw.githubusercontent.com/OpenReallife/OpenReallife-Website/main/OpenReallifeWEB.png"/>
+<img height=100 src="https://raw.githubusercontent.com/OpenReallife/OpenReallife-WEB/main/OpenReallifeWEB.png"/>
 
 </p></a>
 <p align="center">
