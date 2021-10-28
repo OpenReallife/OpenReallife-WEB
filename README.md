@@ -1,17 +1,31 @@
-<a href="https://inspiredprogrammer.com"><p align="center">
+<a href="https://openreallife.on.fleek.co/"><p align="center">
 <img height=100 src="https://raw.githubusercontent.com/OpenReallife/OpenReallife-WEB/main/OpenReallifeWEB.png"/>
 
 </p></a>
 <p align="center">
-  <strong>Der erste OpenSource SA:MP Server aus Deutschland</strong>
+  <strong>OpenReallife Website :house:</strong>
 </p>
 
 <h3 align="center">
-  <a href="https://github.com/benawad/dogehouse/blob/staging/CONTRIBUTING.md">Contribute</a>
+  <a href="#">Contribute</a>
   <span> · </span>
-  <a href="https://discord.gg/82HzQCJCDg">Community</a>
+  <a href="#">Community</a>
   <span> · </span>
-  <a href="https://github.com/FotieMConstant/dogehouse-docs">Documentation</a>
+  <a href="#">Documentation</a>
 </h3>
 
 ---
+
+# OpenReallife Website :house:
+
+Dieses Repository stellt die Website für den OpenReallife SA:MP Server zur verfügung.
+
+# Zielsetzung
+
+Bei diesem Repository können interessierte Entwickler an der Webseite des OpenReallife Projektes arbeiten.
+Anfänger oder fortgeschrittene Entwickler haben hier die Möglichkeit, als Frontend-, Backend- oder Fullstack-Entwickler tätig zu werden.
+
+# Contributing
+
+OpenReallife WEB ist offen für "Contributions".
+Falls du mithelfen willst, lies dir bitte zuerst die [CONTRIBUTING.md] für dieses Projekt durch.
