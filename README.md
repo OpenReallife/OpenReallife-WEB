@@ -29,3 +29,7 @@ Anfänger oder fortgeschrittene Entwickler haben hier die Möglichkeit, als Fron
 
 OpenReallife WEB ist offen für "Contributions".
 Falls du mithelfen willst, lies dir bitte zuerst die [CONTRIBUTING.md](https://#) für dieses Projekt durch.
+
+
+
+[Figma Design](https://www.figma.com/files/project/41523582/Team-project?fuid=452180536127285792)
