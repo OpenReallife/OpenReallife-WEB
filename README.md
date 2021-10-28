@@ -3,7 +3,7 @@
 
 </p></a>
 <p align="center">
-  <strong>OpenReallife Website :house:</strong>
+  <strong>:house: OpenReallife Website</strong>
 </p>
 
 <h3 align="center">
@@ -16,16 +16,16 @@
 
 ---
 
-# OpenReallife Website :house:
+# :house: OpenReallife Website
 
 Dieses Repository stellt die Website für den OpenReallife SA:MP Server zur verfügung.
 
-# Zielsetzung
+## Zielsetzung
 
 Bei diesem Repository können interessierte Entwickler an der Webseite des OpenReallife Projektes arbeiten.
 Anfänger oder fortgeschrittene Entwickler haben hier die Möglichkeit, als Frontend-, Backend- oder Fullstack-Entwickler tätig zu werden.
 
-# Contributing
+## Contributing
 
 OpenReallife WEB ist offen für "Contributions".
 Falls du mithelfen willst, lies dir bitte zuerst die [CONTRIBUTING.md] für dieses Projekt durch.
