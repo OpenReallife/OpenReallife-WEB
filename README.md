@@ -28,4 +28,4 @@ Anfänger oder fortgeschrittene Entwickler haben hier die Möglichkeit, als Fron
 ## Contributing
 
 OpenReallife WEB ist offen für "Contributions".
-Falls du mithelfen willst, lies dir bitte zuerst die [CONTRIBUTING.md] für dieses Projekt durch.
+Falls du mithelfen willst, lies dir bitte zuerst die [CONTRIBUTING.md](https://#) für dieses Projekt durch.
