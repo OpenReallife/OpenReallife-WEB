@@ -18,10 +18,26 @@ export default function Home() {
       </Head>
       <Header />
       <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet" /> 
-      <main className='flex items-center flex-wrap bg-black h-screen text-white pl-52 pr-52'>
-        <div className='h-32 w-3/4 justify-center'>
-          <div className='left h-32 bg-or-blue'></div>
-          <div className='right h-32 bg-or-green'></div>
+      <main className='flex justify-center bg-black h-screen text-white pl-52 pr-52'>
+        <div className='grid justify-center w-2/3 grid-cols-2 h-screen pt-24'>
+          <div className='left bg-or-blue pl-10 pr-32 py-32 h-2/3'>
+            <div className='font-bold text-2xl pb-4'>OpenReallife | Version 0.1</div>
+            <hr className='or-green w-20 border-t-4 pb-8'></hr>
+            <div className='font-bold pb-6'>
+              <div>Adresse:</div>
+              <div>Spieler:</div>
+              <div>Ping:</div>
+              <div>Modus:</div>
+              <div>Sprache:</div>
+            </div>
+            <hr className='pt-6 or-green'></hr>
+            <div className='grid'>
+              <a className='flex justify-center bg-or-green text-or-blue font-medium w-full p-2 rounded-md hover:bg-or-lightgreen' href='samp://5.83.173.57:55800'>Spiel starten</a>
+              <p className='flex justify-center py-5 font-normal text-xs border-t-0'>ODER</p>
+              <a className='flex justify-center border-or-green border-solid border-2 text-or-green w-full p-2 rounded-md hover:bg-or-green hover:text-or-blue' href='#'>Registrieren</a>
+            </div>
+          </div>
+          <div className='right bg-or-green p-10 h-2/3'>LOLOLO</div>
         </div>
       </main>
     </div>
