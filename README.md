@@ -16,6 +16,10 @@
 
 ---
 
+<p align="center">
+<img height=200 src="https://raw.githubusercontent.com/OpenReallife/OpenReallife-WEB/main/website.png"/>
+</p>
+
 # :house: OpenReallife Website
 
 Dieses Repository stellt die Website für den OpenReallife SA:MP Server zur verfügung.
@@ -29,7 +33,5 @@ Anfänger oder fortgeschrittene Entwickler haben hier die Möglichkeit, als Fron
 
 OpenReallife WEB ist offen für "Contributions".
 Falls du mithelfen willst, lies dir bitte zuerst die [CONTRIBUTING.md](https://#) für dieses Projekt durch.
-
-
 
 [Figma Design](https://www.figma.com/files/project/41523582/Team-project?fuid=452180536127285792)
