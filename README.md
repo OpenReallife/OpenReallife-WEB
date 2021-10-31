@@ -16,11 +16,11 @@
 
 ---
 
-<p align="center">
-<img height=200 src="https://raw.githubusercontent.com/OpenReallife/OpenReallife-WEB/main/website.png"/>
-</p>
-
 # :house: OpenReallife Website
+
+<p align="center">
+<img height=400 src="https://raw.githubusercontent.com/OpenReallife/OpenReallife-WEB/main/website.png"/>
+</p>
 
 Dieses Repository stellt die Website für den OpenReallife SA:MP Server zur verfügung.
 
