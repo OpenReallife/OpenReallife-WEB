@@ -22,16 +22,16 @@
 <img height=400 src="https://raw.githubusercontent.com/OpenReallife/OpenReallife-WEB/main/website.png"/>
 </p>
 
-This repository provides the website for the OpenReallife SA:MP server.
+Dieses Repository stellt die Website für den OpenReallife SA:MP Server zur verfügung.
 
-## Objective
+## Zielsetzung
 
-This repository allows interested developers to work on the OpenReallife project website. 
-Beginners or advanced developers have the opportunity to work here as frontend, backend or fullstack developers.
+Bei diesem Repository können interessierte Entwickler an der Webseite des OpenReallife Projektes arbeiten.
+Anfänger oder fortgeschrittene Entwickler haben hier die Möglichkeit, als Frontend-, Backend- oder Fullstack-Entwickler tätig zu werden.
 
 ## Contributing
 
-OpenReallife WEB is open for "Contributions". 
-If you want to help, please read the [CONTRIBUTING.md](https://#) for this project first.
+OpenReallife WEB ist offen für "Contributions".
+Falls du mithelfen willst, lies dir bitte zuerst die [CONTRIBUTING.md](https://#) für dieses Projekt durch.
 
 [Figma Design](https://www.figma.com/files/project/41523582/Team-project?fuid=452180536127285792)

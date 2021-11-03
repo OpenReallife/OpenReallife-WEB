@@ -33,7 +33,7 @@ export default function Home() {
             <hr className='pt-6 or-green'></hr>
             <div className='grid'>
               <a className='flex justify-center bg-or-green text-or-blue font-medium w-full p-2 rounded-md hover:bg-or-lightgreen' href='samp://5.83.173.57:55800'>Spiel starten</a>
-              <p className='flex justify-center py-5 font-normal text-xs border-t-0'>ODER</p>
+              <p className='flex justify-center py-5 font-normal text-xs border-t-0'><hr></hr>ODER</p>
               <a className='flex justify-center border-or-green border-solid border-2 text-or-green w-full p-2 rounded-md hover:bg-or-green hover:text-or-blue' href='#'>Registrieren</a>
             </div>
           </div>
